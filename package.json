@@ -1,0 +1,28 @@
+{
+  "name": "@gelatonetwork/gelato-user-proxy",
+  "version": "0.0.0",
+  "description": "GelatoUserProxy Smart Contracts",
+  "main": "index.js",
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gelatodigital/gelato-user-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gelatodigital/gelato-user-proxy/issues"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/testExports.js"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "gelato",
+    "network"
+  ],
+  "author": "hilmarx & gitpusha",
+  "license": "ISC"
+}
